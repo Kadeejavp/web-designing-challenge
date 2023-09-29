@@ -1,0 +1,31 @@
+.mainbody{
+    height: 600px;
+    width: 100%;
+    background: gray;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background: rgb(86, 204, 224);
+}
+.left{
+    height: 400px;
+    width: 20%;
+    background: rgb(179, 201, 100);
+    float: left;
+}
+.right{
+    height: 400px;
+    width: 80%;
+    background: rgb(170, 118, 201);
+    float: left;
+}
+.footer{
+    height:150px;
+    width: 100%;
+    background: rgb(135, 156, 223);
+    float: left;
+}
+body{
+    margin: 0;
+}
